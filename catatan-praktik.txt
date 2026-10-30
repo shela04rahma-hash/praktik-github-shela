@@ -1,0 +1,9 @@
+CATATAN PRAKTIK GIT DAN GITHUB
+
+1. Git adalah sistem kontrol versi untuk mengelola perubahan file.
+2. GitHub adalah platform untuk menyimpan repository secara online.
+3. Git Commit digunakan untuk menyimpan perubahan pada repository lokal.
+4. Git Push digunakan untuk mengirim perubahan ke GitHub.
+5. Git Pull digunakan untuk mengambil perubahan dari GitHub ke komputer lokal.
+
+Branch utama yang digunakan adalah main.
